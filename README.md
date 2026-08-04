@@ -1,106 +1,118 @@
 <div align="center">
 
-# 💻 Official-Ikylana
+# 👨‍💻 Official-Ikylana
 
-### 🔐 Cyber Security Researcher • Open Source Developer • Linux Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cyber+Security+Researcher;Ethical+Hacker;Open+Source+Developer;Linux+Enthusiast;Always+Learning..." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cyber+Security+Researcher;Ethical+Hacker;Open+Source+Developer;Always+Learning..." />
+<img src="https://img.shields.io/badge/CYBER-SECURITY-00FF41?style=for-the-badge&logo=hackaday&logoColor=black"/>
+<img src="https://img.shields.io/badge/ETHICAL-HACKER-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN-SOURCE-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINUX-ENTHUSIAST-yellow?style=for-the-badge&logo=linux"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=officialikylana&label=Profile%20Views&color=39FF14&style=for-the-badge)
+---
 
 > **"Hack to Secure, Learn to Protect."**
 
 </div>
 
----
+# 🛡️ About Me
 
-# 👨‍💻 ABOUT ME
-
-```yaml
+```text
 Name      : Official-Ikylana
 Role      : Cyber Security Researcher
 Focus     : Ethical Hacking
-Country   : Indonesia
-OS         : Linux
-Languages : Python • Bash • JavaScript
+OS        : Linux
+Language  : Python • Bash • JavaScript
 Status    : Always Learning...
 ```
 
 ---
 
-# ⚡ SKILLS
+# ⚡ Skills
 
-### 💻 Programming
+💻 Programming
+- Python
+- Bash
+- JavaScript
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,js,html,css"/>
-</p>
-
-### 🛡 Cyber Security
-
+🛡 Cyber Security
 - Penetration Testing
 - Web Security
 - Network Security
-- Linux Administration
 - OSINT
-- Reverse Engineering (Learning)
+- Linux Administration
 
-### 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker"/>
-</p>
+🧰 Tools
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- Git
+- Docker
 
 ---
 
-# 📊 GITHUB STATS
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=officialikylana&show_icons=true&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Official-Ikylana&show_icons=true&theme=chartreuse-dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialikylana&layout=compact&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-Ikylana&layout=compact&theme=chartreuse-dark"/>
 
 </p>
 
 ---
 
-# 🔥 GITHUB STREAK
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=officialikylana&theme=chartreuse-dark"/>
+<img src="https://streak-stats.demolab.com?user=Official-Ikylana&theme=chartreuse-dark"/>
 
 </p>
 
 ---
 
-# 🏆 GITHUB TROPHY
+# 🏆 GitHub Trophy
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=officialikylana&theme=matrix&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Official-Ikylana&theme=matrix&no-frame=true&margin-w=10"/>
 
 </p>
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=officialikylana&theme=github-dark"/>
+<img src="https://raw.githubusercontent.com/Official-Ikylana/Official-Ikylana/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🌐 Connect With Me
 
-> Aktifkan GitHub Actions agar animasi snake muncul.
+- 💻 GitHub : https://github.com/Official-Ikylana
 
-```yaml
-name: Generate Snake
+---
+
+# ⚠️ Disclaimer
+
+Seluruh project dibuat untuk **edukasi, penelitian keamanan, dan pengujian yang memiliki izin**. Jangan gunakan untuk aktivitas yang melanggar hukum.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=Official-Ikylana&color=00ff41&style=for-the-badge"/>
+
+</div>name: Generate Snake
 
 on:
   schedule:
