@@ -404,3 +404,130 @@ ACCESS     ROOT
 
 <hr>
 
+
+<hr>
+
+<h2 align="center">🌐 CONNECT WITH ME</h2>
+
+<div align="center">
+
+<a href="https://github.com/officialikylana">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41"/>
+</a>
+
+<a href="https://t.me/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF41"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+</a>
+
+</div>
+
+<hr>
+
+<h2 align="center">🏅 ACHIEVEMENTS</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-Lover-00FF41?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Cyber-Security-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Penetration-Testing-00FF41?style=for-the-badge"/>
+
+</div>
+
+<hr>
+
+<h2 align="center">💻 MATRIX CONSOLE</h2>
+
+<pre>
+
+root@matrix:~#
+
+Starting Recon...
+
+██████████████████████ 100%
+
+Collecting Information...
+
+██████████████████████ 100%
+
+Enumerating Services...
+
+██████████████████████ 100%
+
+Mission Ready...
+
+Access Level :
+
+ROOT
+
+</pre>
+
+<hr>
+
+<h2 align="center">⚠ ETHICAL HACKING DISCLAIMER</h2>
+
+<pre>
+
+This GitHub profile is intended for:
+
+✔ Ethical Hacking
+
+✔ Cyber Security Research
+
+✔ Penetration Testing
+
+✔ Education
+
+✔ Authorized Security Assessments
+
+Never use knowledge or tools to access systems without permission.
+
+Hack Responsibly.
+
+</pre>
+
+<hr>
+
+<h2 align="center">💀 ACCESS GRANTED</h2>
+
+<pre>
+
+ █████╗  ██████╗ ██████╗███████╗███████╗███████╗
+██╔══██╗██╔════╝██╔════╝██╔════╝██╔════╝██╔════╝
+███████║██║     ██║     █████╗  ███████╗███████╗
+██╔══██║██║     ██║     ██╔══╝  ╚════██║╚════██║
+██║  ██║╚██████╗╚██████╗███████╗███████║███████║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝╚══════╝╚══════╝╚══════╝
+
+ACCESS LEVEL : ROOT
+STATUS       : ONLINE
+MISSION      : ACTIVE
+
+</pre>
+
+<hr>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=850&lines=Initializing+Matrix...;Loading+Cyber+Security+Modules...;Access+Granted...;Happy+Hacking!"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer"/>
+
+</div>
