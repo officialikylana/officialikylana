@@ -315,13 +315,7 @@ src="https://streak-stats.demolab.com?user=officialikylana&theme=chartreuse-dark
 
 <hr>
 
-<div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialikylana&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
-
-</div>
-
-<hr>
 
 <h2 align="center">📈 CONTRIBUTION GRAPH</h2>
 
