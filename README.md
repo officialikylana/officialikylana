@@ -325,7 +325,7 @@ IDS ............. RUNNING
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=officialikylana&theme=matrix&no-frame=true&no-bg=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=officialikylana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%"/>
 
 </div>
 
