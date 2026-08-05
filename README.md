@@ -1,94 +1,73 @@
 <div align="center">
 
-# 👨‍💻 Official-Ikylana
+# 👨‍💻 OFFICIAL IKYLANA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cyber+Security+Researcher;Ethical+Hacker;Open+Source+Developer;Linux+Enthusiast;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cyber+Security+Researcher;Ethical+Hacker;Linux+Enthusiast;Open+Source+Developer;Always+Learning..." />
 
-<img src="https://img.shields.io/badge/CYBER-SECURITY-00FF41?style=for-the-badge&logo=hackaday&logoColor=black"/>
-<img src="https://img.shields.io/badge/ETHICAL-HACKER-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OPEN-SOURCE-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LINUX-ENTHUSIAST-yellow?style=for-the-badge&logo=linux"/>
-
----
-
-> **"Hack to Secure, Learn to Protect."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=180&section=header&text=HACK%20THE%20PLANET&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
 </div>
 
-# 🛡️ About Me
+---
 
-```text
-Name      : Official-Ikylana
+# 💀 About Me
+
+```bash
+┌──(root㉿kali)-[~/profile]
+└─$ whoami
+
+Name      : Official Ikylana
 Role      : Cyber Security Researcher
 Focus     : Ethical Hacking
-OS        : Linux
-Language  : Python • Bash • JavaScript
-Status    : Always Learning...
+OS         : Kali Linux
+Language   : Python | Bash | JavaScript
+Status     : Learning Every Day...
 ```
 
 ---
 
-# ⚡ Skills
-
-### 💻 Programming
-- Python
-- Bash
-- JavaScript
-
-### 🛡 Cyber Security
-- Penetration Testing
-- Web Security
-- Network Security
-- OSINT
-- Linux Administration
-
-### 🧰 Tools
-- Nmap
-- Wireshark
-- Burp Suite
-- Metasploit
-- Git
-- Docker
-
----
-
-# 📊 GitHub Stats
+# ⚡ Hacker Arsenal
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=officialikylana&show_icons=true&theme=chartreuse-dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialikylana&layout=compact&theme=chartreuse-dark"/>
+![](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
+![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
+![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
+![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
+![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)
+![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
+![](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+![](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge)
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Current Mission
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=officialikylana&theme=chartreuse-dark"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=officialikylana&theme=matrix&no-frame=true&margin-w=10"/>
-
-</p>
+```txt
+[✓] Linux
+[✓] Networking
+[✓] Web Security
+[✓] Penetration Testing
+[✓] Reverse Engineering
+[ ] Malware Analysis
+[ ] Red Team
+```
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=officialikylana&theme=github-compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=chartreuse-dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=chartreuse-dark"/>
 
 </p>
 
@@ -98,18 +77,46 @@ Status    : Always Learning...
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/officialikylana/officialikylana/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 💬 Random Dev Quote
+# 🌐 Connect
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<a href="https://github.com/USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41"/>
+</a>
 
+<a href="https://instagram.com/USERNAME">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41"/>
+</a>
+
+<a href="https://t.me/USERNAME">
+<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff41"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+```txt
+██████╗ ██╗   ██╗███████╗██████╗
+██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗
+██████╔╝ ╚████╔╝ █████╗  ██████╔╝
+██╔══██╗  ╚██╔╝  ██╔══╝  ██╔══██╗
+██████╔╝   ██║   ███████╗██║  ██║
+╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
+
+### ⚠️ ACCESS GRANTED ⚠️
+
+</div>
 </p>
 
 ---
