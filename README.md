@@ -30,19 +30,19 @@ Status    : Always Learning...
 
 # ⚡ Skills
 
-💻 Programming
+### 💻 Programming
 - Python
 - Bash
 - JavaScript
 
-🛡 Cyber Security
+### 🛡 Cyber Security
 - Penetration Testing
 - Web Security
 - Network Security
 - OSINT
 - Linux Administration
 
-🧰 Tools
+### 🧰 Tools
 - Nmap
 - Wireshark
 - Burp Suite
@@ -56,9 +56,9 @@ Status    : Always Learning...
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Official-Ikylana&show_icons=true&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=officialikylana&show_icons=true&theme=chartreuse-dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-Ikylana&layout=compact&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialikylana&layout=compact&theme=chartreuse-dark"/>
 
 </p>
 
@@ -68,7 +68,7 @@ Status    : Always Learning...
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Official-Ikylana&theme=chartreuse-dark"/>
+<img src="https://streak-stats.demolab.com?user=officialikylana&theme=chartreuse-dark"/>
 
 </p>
 
@@ -78,7 +78,17 @@ Status    : Always Learning...
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Official-Ikylana&theme=matrix&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=officialikylana&theme=matrix&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=officialikylana&theme=github-compact"/>
 
 </p>
 
@@ -88,7 +98,17 @@ Status    : Always Learning...
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Official-Ikylana/Official-Ikylana/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/officialikylana/officialikylana/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </p>
 
@@ -96,7 +116,13 @@ Status    : Always Learning...
 
 # 🌐 Connect With Me
 
-- 💻 GitHub : https://github.com/Official-Ikylana
+<p align="center">
+
+<a href="https://github.com/officialikylana">
+<img src="https://img.shields.io/badge/GitHub-officialikylana-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
@@ -104,6 +130,15 @@ Status    : Always Learning...
 
 Seluruh project dibuat untuk **edukasi, penelitian keamanan, dan pengujian yang memiliki izin**. Jangan gunakan untuk aktivitas yang melanggar hukum.
 
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=officialikylana&color=00ff41&style=for-the-badge"/>
+
+</div>
 ---
 
 <div align="center">
