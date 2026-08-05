@@ -109,8 +109,14 @@ root@kali:~#
 
 <h3>💻 Operating Systems</h3>
 
-<p>
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41"/>
+
 </p>
 
 <h3>👨‍💻 Programming Languages</h3>
