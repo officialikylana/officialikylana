@@ -156,3 +156,76 @@ Labs
 
 root@kali:~#
 ```
+
+---
+
+# 🛡 Penetration Testing Arsenal
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLMap-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hashcat-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John_The_Ripper-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gobuster-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feroxbuster-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dirsearch-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Subfinder-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Amass-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FFUF-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nikto-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Aircrack--ng-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TCPDump-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Netcat-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GDB-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ghidra-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Radare2-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenVAS-0D1117?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=officialikylana&theme=github_dark"/>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=officialikylana&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=officialikylana&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📚 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialikylana&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=officialikylana
