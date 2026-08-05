@@ -216,8 +216,6 @@ root@kali:~#
 
 # 📚 Most Used Languages
 
-<p align="center">
-
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialikylana&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
