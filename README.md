@@ -305,8 +305,6 @@ IDS ............. RUNNING
 
 <hr>
 
-<br>
-
 <div align="center">
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialikylana&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
