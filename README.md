@@ -196,7 +196,9 @@ root@kali:~#
 
 <p align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=officialikylana&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=officialikylana&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=officialikylana&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
