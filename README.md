@@ -293,13 +293,23 @@ IDS ............. RUNNING
 
 <hr>
 
+<hr>
+
 <h2 align="center">📊 GITHUB DASHBOARD</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=officialikylana&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+<!-- GitHub Stats -->
 
-<img width="49%" src="https://streak-stats.demolab.com?user=officialikylana&theme=chartreuse-dark&hide_border=true&background=0D1117"/>
+<img width="95%"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=officialikylana&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+
+<br><br>
+
+<!-- GitHub Streak -->
+
+<img width="95%"
+src="https://streak-stats.demolab.com?user=officialikylana&theme=chartreuse-dark&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -440,19 +450,19 @@ ACCESS     ROOT
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/officialikylana">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41"/>
 </a>
 
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/officialikylana">
 <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF41"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:supportkay@email.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/officialikylana">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 
