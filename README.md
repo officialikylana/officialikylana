@@ -111,14 +111,17 @@ root@kali:~#
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&theme=dark"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41"/>
 
-</p>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41"/>
 
+<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
+
+<img src="https://img.shields.io/badge/Debian-0D1117?style=for-the-badge&logo=debian&logoColor=A81D33"/>
+
+<img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+
+</p>
 <h3>👨‍💻 Programming Languages</h3>
 
 <p>
