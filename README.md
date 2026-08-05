@@ -80,7 +80,6 @@ Status     : Learning Every Day...
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialikylana&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
----
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+System...;Access+Granted...;Loading+Contribution+Matrix...;Happy+Hacking!" />
@@ -101,15 +100,15 @@ Status     : Learning Every Day...
 
 <p align="center">
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/official ikylana">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41"/>
 </a>
 
-<a href="https://instagram.com/USERNAME">
+<a href="https://instagram.com/official ikylana">
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41"/>
 </a>
 
-<a href="https://t.me/USERNAME">
+<a href="https://t.me/official ikylana">
 <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff41"/>
 </a>
 
