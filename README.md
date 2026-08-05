@@ -59,18 +59,17 @@ Status     : Learning Every Day...
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=officialikylana&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=officialikylana&theme=chartreuse-dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialikylana&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
-
 ---
 
 # 🐍 Contribution Snake
