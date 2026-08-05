@@ -279,3 +279,128 @@ IDS ............. RUNNING
 </pre>
 
 <hr>
+
+<hr>
+
+<h2 align="center">📊 GITHUB DASHBOARD</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=officialikylana&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=officialikylana&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialikylana&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
+
+</div>
+
+<hr>
+
+<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=officialikylana&theme=github-dark&bg_color=0d1117&hide_border=true&color=00ff41&line=00ff41&point=39ff14"/>
+
+</div>
+
+<hr>
+
+<h2 align="center">🏆 GITHUB TROPHIES</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=officialikylana&theme=matrix&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+<hr>
+
+<h2 align="center">🐍 MATRIX CONTRIBUTION</h2>
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/officialikylana/officialikylana/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<hr>
+
+<h2 align="center">💻 LIVE TERMINAL</h2>
+
+<pre>
+
+root@matrix:~#
+
+systemctl status
+
+██████████████████████████████
+
+Firewall........ONLINE
+
+VPN.............CONNECTED
+
+Docker..........RUNNING
+
+SSH.............ACTIVE
+
+GitHub..........SYNCED
+
+Monitoring......RUNNING
+
+██████████████████████████████
+
+Mission Status :
+
+READY
+
+root@matrix:~#
+
+</pre>
+
+<hr>
+
+<h2 align="center">📡 SYSTEM MONITOR</h2>
+
+<pre>
+
+CPU        ████████████████░░ 82%
+
+RAM        ██████████░░░░░░░ 61%
+
+NETWORK    █████████████░░░░ 74%
+
+SECURITY   ████████████████ 100%
+
+FIREWALL   ENABLED
+
+VPN        CONNECTED
+
+ACCESS     ROOT
+
+</pre>
+
+<hr>
+
+<h2 align="center">☠ CYBER SECURITY QUOTE</h2>
+
+<div align="center">
+
+<h3>
+
+"There is no patch for human stupidity."
+
+</h3>
+
+<b>— Kevin Mitnick</b>
+
+</div>
+
+<hr>
+
