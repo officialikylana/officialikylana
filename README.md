@@ -291,15 +291,19 @@ IDS ............. RUNNING
 
 <hr>
 
+<hr>
+
 <h2 align="center">📊 GITHUB DASHBOARD</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=officialikylana&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=officialikylana&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=officialikylana&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=officialikylana&theme=chartreuse-dark&hide_border=true&background=0D1117"/>
 
 </div>
+
+<hr>
 
 <br>
 
