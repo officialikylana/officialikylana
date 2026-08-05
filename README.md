@@ -30,19 +30,51 @@ Status     : Learning Every Day...
 
 <p align="center">
 
-![](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41)
-![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
-![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
-![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)
-![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
-![](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
-![](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
-![](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge)
+### 💻 Operating Systems
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,debian"/>
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,java,javascript,typescript,php,go,rust"/>
+
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,nuxt,nodejs,express,laravel"/>
+
+### 🗄 Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+
+### ☁ DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github,vscode,vim"/>
 
 </p>
 
+---
+
+### 🛡 Penetration Testing
+
+<p align="center">
+
+![](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00ff41)
+![](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge)
+![](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge)
+![](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Hydra-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge)
+![](https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Feroxbuster-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Dirsearch-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Subfinder-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Amass-000000?style=for-the-badge)
+![](https://img.shields.io/badge/FFUF-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Nikto-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Netcat-000000?style=for-the-badge)
+![](https://img.shields.io/badge/TCPDump-000000?style=for-the-badge)
+![](https://img.shields.io/badge/GDB-000000?style=for-the-badge)
+
+</p>
 ---
 
 # 🔥 Current Mission
