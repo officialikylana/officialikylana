@@ -229,3 +229,141 @@ root@kali:~#
 <p align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=officialikylana
+
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/officialikylana">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41"/>
+</a>
+
+<a href="https://t.me/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF41"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a>
+
+</p>
+
+---
+
+# 💎 Support
+
+<p align="center">
+
+<a href="https://github.com/officialikylana?tab=repositories">
+<img src="https://img.shields.io/badge/⭐_Star_My_Repositories-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+</p>
+
+---
+
+# ☠ Ethical Hacking Disclaimer
+
+```text
+This profile is intended for:
+
+✔ Ethical Hacking
+✔ Penetration Testing
+✔ Security Research
+✔ Educational Purposes
+✔ Authorized Security Assessments
+
+Unauthorized access to computer systems is illegal.
+
+Hack Responsibly.
+```
+
+---
+
+# 💻 Hacker Console
+
+```bash
+root@kali:~# sudo nmap target
+
+Starting Nmap...
+
+Host is Up
+
+22/tcp   SSH      Open
+80/tcp   HTTP     Open
+443/tcp  HTTPS    Open
+
+Scan Finished.
+
+root@kali:~#
+```
+
+---
+
+# 📡 System Monitor
+
+```text
+███████████████████████████████████████████
+
+CPU Usage          ████████████░░░░ 74%
+
+Memory             ██████████░░░░░░ 61%
+
+Network            █████████████░░░ 82%
+
+Firewall           ████████████████ ONLINE
+
+VPN                ████████████████ CONNECTED
+
+Security           ████████████████ SECURED
+
+███████████████████████████████████████████
+```
+
+---
+
+# 👾 Matrix Status
+
+```text
+Loading Modules...
+
+[████████████████████] 100%
+
+Recon Complete
+Enumeration Complete
+Privilege Escalation Ready
+Mission Status : ACTIVE
+
+Access Level : ROOT
+```
+
+---
+
+# 💀 ACCESS GRANTED
+
+```text
+ █████╗  ██████╗ ██████╗███████╗███████╗███████╗
+██╔══██╗██╔════╝██╔════╝██╔════╝██╔════╝██╔════╝
+███████║██║     ██║     █████╗  ███████╗███████╗
+██╔══██║██║     ██║     ██╔══╝  ╚════██║╚════██║
+██║  ██║╚██████╗╚██████╗███████╗███████║███████║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝╚══════╝╚══════╝╚══════╝
+```
+
+---
+
+<div align="center">
+
+## ⚡ Hack The Planet ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+Matrix...;Access+Granted...;Happy+Hacking...;Thanks+For+Visiting+My+Profile!"/>
+
+</div>
