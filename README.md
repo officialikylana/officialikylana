@@ -59,6 +59,16 @@ Status     : Learning Every Day...
 
 ---
 
+## 💻 Hacker Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,python,c,cpp,cs,java,javascript,typescript,nodejs,php,laravel,go,rust,dart,kotlin,swift,html,css,react,nextjs,vue,nuxt,tailwind,mysql,postgres,mongodb,redis,docker,kubernetes,nginx,git,github,vscode,vim,figma&perline=10"/>
+
+</p>
+
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
